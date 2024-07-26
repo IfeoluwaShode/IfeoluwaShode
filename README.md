@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi 👋, I'm Ifeoluwa Shode</h1>
-<h3 align="center">I am a dedicated Data Science major and a business administration minor on a mission to uncover meaningful insights from complex datasets. Armed with strong analytical skills, programming expertise, and a curious mind. I eagerly embrace emerging technologies and methodologies.</h3>
+<h3 align="center">I am a dedicated Computer Science major and a business administration minor on a mission to uncover meaningful insights from complex datasets. Armed with strong analytical skills, programming expertise, and a curious mind. I eagerly embrace emerging technologies and methodologies.</h3>
 <img align="right" alt="Coding/Analyzing" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 - 🌱 I’m currently learning **HTML, CSS, PYTHON, SQL**
